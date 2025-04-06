@@ -6,7 +6,7 @@ I am from Egypt, Cairo, Qalyubia Governorate.</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ma2707sa" alt="ma2707sa" />
+    <img src="https://github-profile-trophy.vercel.app/?username=" alt="ma2707sa" />
   </a>
 </p>
 <p align="left">
