@@ -11,8 +11,10 @@
 </p>
 
 
+<p align="center">
+ <img align="right 10px" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1050/1*yw0TnheAGN-LPneDaTlaxw.gif" />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1050/1*yw0TnheAGN-LPneDaTlaxw.gif" />
 
 ### 🌐 Connect with me
 <hr style="width: 5cm; border: 10px solid #000;">
@@ -38,12 +40,10 @@
 </p>
 
 ### 🚀 Pinned Projects
+<!-- Link to your profile page -->
 <p align="center">
-  <a href="https://github.com/Mr-Coder-2707">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Coder-2707&repo=first-project-name&theme=onedark" />
-  </a>
-  <a href="https://github.com/Mr-Coder-2707">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Coder-2707&repo=second-project-name&theme=onedark" />
+  <a href="https://mr-coder-2707.github.io/Mahmoud-Elkhwass-Profile/" target="_blank">
+    <img src="https://img.shields.io/badge/View_Profile-Here-blue" alt="View Profile" />
   </a>
 </p>
 
